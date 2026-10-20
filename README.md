@@ -6,7 +6,7 @@
 
 Me apasiona construir soluciones, aprender y compartir conocimiento. ¡Siempre abierto a conversar sobre desarrollo de software e inteligencia artificial! :)
 
-Desarrollo aplicaciones web, herramientas a medida y soluciones de comercio electrónico. Mi trabajo conecta **frontend, backend, integraciones, automatización e infraestructura**, con especial experiencia en WordPress, WooCommerce, Shopify y Laravel.
+Desarrollo aplicaciones web, herramientas a medida y soluciones de comercio electrónico. Mi trabajo conecta **frontend, backend, integraciones, automatización e infraestructura**, con especial experiencia en **WordPress avanzado y WooCommerce**, Shopify y Laravel. En el ecosistema WordPress me especializo en **JetEngine y la suite Crocoblock**, **Advanced Custom Fields (ACF)** y los principales constructores visuales: **Bricks Builder, Elementor y Divi**.
 
 Desde 2023 incorporo inteligencia artificial a mi flujo de desarrollo. Actualmente orquesto agentes como **OpenCode, Codex y Claude Code** para diseñar, implementar, depurar y desplegar software, manteniendo el criterio técnico y la validación humana sobre las soluciones.
 
@@ -33,13 +33,21 @@ Plugin de checkout modal de un solo paso para compras contraentrega, con ofertas
 
 > **Un ecosistema conectado:** el administrador Saviafem, Quick Order para Shopify y Quick Order para WooCommerce son soluciones complementarias para una misma operación comercial. No son tres proyectos aislados.
 
+## Especialización en WordPress y WooCommerce
+
+- **Contenido dinámico y estructuras personalizadas:** JetEngine, Crocoblock y Advanced Custom Fields (ACF).
+- **Constructores visuales:** Bricks Builder, Elementor y Divi; desarrollo y personalización de sitios a medida.
+- **Desarrollo avanzado:** PHP, JavaScript, plugins y funcionalidades personalizadas, hooks, integraciones mediante APIs y WooCommerce.
+- **Rendimiento y operación:** optimización, SEO técnico, migraciones, hosting, servidores y resolución de incidencias.
+
 ## Tecnologías y herramientas
 
 | Área | Experiencia |
 | --- | --- |
 | **Backend** | PHP, Laravel, APIs REST, MySQL, PostgreSQL |
 | **Frontend** | JavaScript, HTML, CSS, React Router |
-| **E-commerce** | Shopify, WordPress, WooCommerce, Elementor |
+| **WordPress / WooCommerce** | JetEngine, Crocoblock, ACF, Bricks Builder, Elementor, Divi, plugins personalizados | 
+| **E-commerce** | Shopify, WordPress, WooCommerce |
 | **Infraestructura** | Linux, VPS, Docker, despliegues, SSL |
 | **IA y automatización** | OpenCode, Codex, Claude Code, n8n, webhooks |
 | **Otros** | Prisma, SEO técnico, analítica e integraciones |
