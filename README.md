@@ -12,16 +12,26 @@ Desde 2023 incorporo inteligencia artificial a mi flujo de desarrollo. Actualmen
 
 ## Proyectos destacados
 
+### ⚙️ Saviafem Admin — Plataforma de operaciones e-commerce
+**Laravel · MySQL · WhatsApp · Dropi · APIs · Docker**
+
+Plataforma administrativa para una operación real de dropshipping. Centraliza pedidos y estados logísticos, integra Dropi, Shopify y WooCommerce, y reúne procesos de mensajería mediante WhatsApp/WPPConnect. Incluye automatizaciones e integraciones con servicios externos, con despliegue y mantenimiento en infraestructura Linux/VPS.
+
+**Rol:** desarrollo Full Stack, integración de sistemas, automatización y operación de infraestructura. *Código privado; capturas y caso de estudio en preparación.*
+
 ### 🛒 [Quick Order — Shopify](https://github.com/Cristian9518/quick-order-showcase)
-Aplicación de comercio electrónico con constructor visual de formularios, ofertas por cantidad, checkout contraentrega, integraciones de analítica y automatizaciones. **[Ver caso de estudio →](https://github.com/Cristian9518/quick-order-showcase)**
+**React Router · Prisma · PostgreSQL · Shopify · Webhooks**
+
+Aplicación de comercio electrónico con constructor visual de formularios, ofertas por cantidad, checkout contraentrega, eventos de analítica y automatizaciones.
+
+**[Ver caso de estudio público →](https://github.com/Cristian9518/quick-order-showcase)**
 
 ### 🧩 Quick Order — WooCommerce
-Plugin de compra rápida para WooCommerce con checkout modal, promociones y personalización de la experiencia de compra. *Código de operación privada.*
+**PHP · JavaScript · WordPress · WooCommerce**
 
-### ⚙️ Plataforma de operaciones de e-commerce
-Sistema administrativo desarrollado con Laravel que integra pedidos, logística, plataformas de venta y mensajería mediante APIs, webhooks y automatizaciones. *Código de operación privada.*
+Plugin de checkout modal de un solo paso para compras contraentrega, con ofertas por cantidad, ventas complementarias, upgrades y promociones configurables. Incluye panel de administración y componentes para personalizar la experiencia de compra. *Código privado; demostración visual en preparación.*
 
-> Los tres proyectos forman parte de una misma operación comercial y se complementan entre sí.
+> **Un ecosistema conectado:** el administrador Saviafem, Quick Order para Shopify y Quick Order para WooCommerce son soluciones complementarias para una misma operación comercial. No son tres proyectos aislados.
 
 ## Tecnologías y herramientas
 
