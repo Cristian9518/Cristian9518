@@ -12,12 +12,12 @@ Desde 2023 incorporo inteligencia artificial a mi flujo de desarrollo. Actualmen
 
 ## Proyectos destacados
 
-### ⚙️ Saviafem Admin — Plataforma de operaciones e-commerce
+### ⚙️ [Saviafem Admin — Plataforma de operaciones e-commerce](https://github.com/Cristian9518/saviafem-admin-showcase)
 **Laravel · MySQL · WhatsApp · Dropi · APIs · Docker**
 
 Plataforma administrativa para una operación real de dropshipping. Centraliza pedidos y estados logísticos, integra Dropi, Shopify y WooCommerce, y reúne procesos de mensajería mediante WhatsApp/WPPConnect. Incluye automatizaciones e integraciones con servicios externos, con despliegue y mantenimiento en infraestructura Linux/VPS.
 
-**Rol:** desarrollo Full Stack, integración de sistemas, automatización y operación de infraestructura. *Código privado; capturas y caso de estudio en preparación.*
+**Rol:** desarrollo Full Stack, integración de sistemas, automatización y operación de infraestructura. **[Ver caso de estudio público →](https://github.com/Cristian9518/saviafem-admin-showcase)**
 
 ### 🛒 [Quick Order — Shopify](https://github.com/Cristian9518/quick-order-showcase)
 **React Router · Prisma · PostgreSQL · Shopify · Webhooks**
